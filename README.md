@@ -1,4 +1,3 @@
 # sampling
 
-![image](https://github.com/SakshiGoyal001/sampling/assets/100338507/50f3b9a9-51bb-48a0-a5f7-f831ac053dbb)
-
+![image](https://github.com/SakshiGoyal001/sampling/assets/100338507/fbe73f14-85c3-4175-b7b6-f18c111c57f5)
